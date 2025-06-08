@@ -10,3 +10,6 @@ while True:
 print ("\nYour Grocery List:")
 for item in grocery:
     print(f"- {item}")
+
+# Day 3 Motivation:
+print("Every loop you write makes future you more powerful. 🔄")
