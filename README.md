@@ -15,3 +15,5 @@ End day: August 17, 2025
 After every five days of learning and practice, consolidate your knowledge by focusing on applying what you've already learned. 
 
 ## Progress  
+Day 1-5: Input → Data Types → Variables → Lists/Dicts → APIs 
+Day 6 Recap Session
