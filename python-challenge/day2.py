@@ -15,3 +15,6 @@ fun_fact = input("Fan fact about you: ")
 #Combine into a bio using f-strings
 print(f"Meet {name}, a {age}-year-old who loves {hobby}")
 print(f"Fan fact: {fun_fact}")
+
+#Day 2 Motivation:
+print("Consistency compounds—you’re already ahead of yesterday’s you! 💪")
