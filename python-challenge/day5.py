@@ -53,3 +53,6 @@ def get_weather(city):
 if __name__ == "__main__":
     city = input("Enter city: ")
     print(get_weather(city))
+
+# Remember: 
+print("Protect your keys like passwords! 🔐")
