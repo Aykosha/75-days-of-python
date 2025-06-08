@@ -11,3 +11,6 @@ profile["skills"] = input("Your skills (comma-separated): ").split(",")
 print("\nProfile Summary:")
 for key, value in profile.items():
     print(f"{key.capitalize()}: {value}")
+
+# Day 4 Wisdom
+print("Dictionaries turn chaos into order.")
