@@ -7,11 +7,11 @@ End day: August 17, 2025
 
 **Goal:** Learn Python fundamentals, build projects and solve problems.
 
-**Approach**
-Days 1–30: Python Fundamentals (Syntax, Data Structures, Functions, OOP) 
-Days 31–50: Mini-Projects & Libraries (Automation, Web Scraping, APIs) 
-Days 51–75: Advanced Topics + Portfolio Projects 
+**Approach**\n
+* Days 1–30: Python Fundamentals (Syntax, Data Structures, Functions, OOP) 
+* Days 31–50: Mini-Projects & Libraries (Automation, Web Scraping, APIs) 
+* Days 51–75: Advanced Topics + Portfolio Projects 
 
-* After every five days of learning and practice, consolidate your knowledge by focusing on applying what you've already learned. 
+After every five days of learning and practice, consolidate your knowledge by focusing on applying what you've already learned. 
 
 ## Progress  
